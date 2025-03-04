@@ -1,2 +1,3 @@
 # temp_repo1
-used for class
+# used for store and show class homework
+ 
